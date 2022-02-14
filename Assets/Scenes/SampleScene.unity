@@ -136,9 +136,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 86971189}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4d818baad02fd2419ed2a6afa2e78b2, type: 3}
+  m_Script: {fileID: 11500000, guid: 255087d0b86f66e44a4a3733c950bbaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  laserPrefab: {fileID: 0}
 --- !u!50 &86971193
 Rigidbody2D:
   serializedVersion: 4
